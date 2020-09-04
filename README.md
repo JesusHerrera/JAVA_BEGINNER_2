@@ -21,10 +21,10 @@
 
 ## Stretch Goals
 
-5. * * Set a one-dimensional array and find the minimum and maximum elements in it (without the help of the Internet);
-6. * * Write a method that takes as a parameter a non-empty one-dimensional integer array. the method should return true if there is a place in the array where the sum of the left and right parts of the array is equal. 
-Examples: checkBalance([1, 1, 1, || 2, 1]) → true, checkBalance ([2, 1, 1, 2, 1]) → false, checkBalance ([10, || 10]) → true, the border is shown with | | characters, these characters are not included in the array.
-7. * * Write a method that is fed a one-dimensional array and the number n (can be positive or negative), and the method must shift all the elements of the array by n positions. You can't use auxiliary arrays to complicate the task.
+5. Set a one-dimensional array and find the minimum and maximum elements in it (without the help of the Internet);
+6. Write a method that takes as a parameter a non-empty one-dimensional integer array. the method should return true if there is a place in the array where the sum of the left and right parts of the array is equal. 
+>> Examples: checkBalance([1, 1, 1, || 2, 1]) → true, checkBalance ([2, 1, 1, 2, 1]) → false, checkBalance ([10, || 10]) → true, the border is shown with | | characters, these characters are not included in the array.
+7. Write a method that is fed a one-dimensional array and the number n (can be positive or negative), and the method must shift all the elements of the array by n positions. You can't use auxiliary arrays to complicate the task.
 
 
 ## Specification
