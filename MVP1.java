@@ -18,4 +18,7 @@ public class Loop_practice1{
 	}
 			System.out.println(zeros[0]);	
 	}
+	
+	
+	System.out.println("Hello");
 }
