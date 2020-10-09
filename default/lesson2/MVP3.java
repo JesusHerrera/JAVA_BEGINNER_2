@@ -5,14 +5,14 @@ package lesson2;
  */
 public class MVP3 {
 	public int[] multiply() {
-		int multi[] = { 1, 5, 3, 2, 11, 4, 5, 2, 4, 8, 9, 1 };
+		int multi[] = { 1, 5, 3, 2, 11, 4, 5, 2, 4, 8, 9, 1 };//Declare and initialize array
 		{
 
-			for (int i = 0; i < multi.length; i++) {
-				if (multi[i] < 6) {
-					multi[i] *= 2;
+			for (int i = 0; i < multi.length; i++) {//Initialize loop
+				if (multi[i] < 6) {//State condition
+					multi[i] *= 2;//if condition is true, multiply the index by 2
 				}
-				System.out.println("\t" + multi[i]);
+				System.out.println("\t" + multi[i]);//Display the array
 			}
 		}
 		return multi;
